@@ -122748,7 +122748,7 @@ r===$&&A.b()
 if(r.l8()){s=A.p_(s).c
 s===$&&A.b()
 s.ny(null)
-return}A.rC(s,"splash")},
+return}A.rC(s,"login")},
 $S:0}
 A.a7M.prototype={
 C(a){return A.eG(new A.aLl(),new A.aLm(this),t.F,t.iH)}}
