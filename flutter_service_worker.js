@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"index.html": "c9fd2c1864256b75c1afb00ca3e6584e",
-"/": "c9fd2c1864256b75c1afb00ca3e6584e",
+const RESOURCES = {"index.html": "69fbc60ad96b0437235454feae3b659b",
+"/": "69fbc60ad96b0437235454feae3b659b",
 "canvaskit/canvaskit.js": "c86fbd9e7b17accae76e5ad116583dc4",
 "canvaskit/skwasm.js": "445e9e400085faead4493be2224d95aa",
 "canvaskit/skwasm.wasm": "e42815763c5d05bba43f9d0337fa7d84",
@@ -74,7 +74,7 @@ const RESOURCES = {"index.html": "c9fd2c1864256b75c1afb00ca3e6584e",
 "assets/assets/fonts/Roboto_Mono/static/RobotoMono-Regular.ttf": "5b04fdfec4c8c36e8ca574e40b7148bb",
 "assets/AssetManifest.bin": "56c6a356b6a521911423b6875288b386",
 "assets/rms_logo.jpg": "0eaba497669fa7762cff4c64aa2998a6",
-"assets/NOTICES": "c730923e4a0f1718208569783edc659a",
+"assets/NOTICES": "4d1cbaea06c179fe0ee67b5005534653",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/cj_students_logo.jpg": "c6f91f714027c85000d7dec72a7ba7f6",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
@@ -89,7 +89,7 @@ const RESOURCES = {"index.html": "c9fd2c1864256b75c1afb00ca3e6584e",
 "icons/rms_logo.png": "4f48a9e79a7d6d37fb46154ecdcad9be",
 "manifest.json": "4dcf72d7738ab0527702c5702a808d59",
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a",
-"main.dart.js": "481a5bd4d082111f5029ab52492d70f8"};
+"main.dart.js": "df8f3c07da608db52f901ef995e4d5e1"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
