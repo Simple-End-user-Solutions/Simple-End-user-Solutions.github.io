@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"index.html": "760ad856fd2a846386a3812d50f26eb1",
-"/": "760ad856fd2a846386a3812d50f26eb1",
+const RESOURCES = {"index.html": "cdf614efd8b59c954b152843819bef14",
+"/": "cdf614efd8b59c954b152843819bef14",
 "canvaskit/canvaskit.js": "c86fbd9e7b17accae76e5ad116583dc4",
 "canvaskit/skwasm.js": "445e9e400085faead4493be2224d95aa",
 "canvaskit/skwasm.wasm": "e42815763c5d05bba43f9d0337fa7d84",
@@ -66,7 +66,7 @@ const RESOURCES = {"index.html": "760ad856fd2a846386a3812d50f26eb1",
 "assets/fonts/Roboto_Mono/RobotoMono-VariableFont_wght.ttf": "336102a48d996db3d945a346b1790b1f",
 "assets/fonts/Roboto_Mono/README.txt": "73e0946e30966fd4f97f941a329c34ad",
 "assets/fonts/Roboto_Mono/LICENSE.txt": "3b83ef96387f14655fc854ddc3c6bd57",
-"assets/fonts/MaterialIcons-Regular.otf": "e051a70f8069461ad39f238833fc964e",
+"assets/fonts/MaterialIcons-Regular.otf": "a5762ed3d6637fd0c26d26102c143fe6",
 "assets/AssetManifest.bin.json": "9f793903e3989b9e8049587367badf49",
 "assets/assets/images/rms_logo_with_bg.png": "26ede33aedc18bd225f218236519033b",
 "assets/assets/images/rms_logo.png": "138c8e16385c2a10bd171eb473803897",
@@ -89,7 +89,7 @@ const RESOURCES = {"index.html": "760ad856fd2a846386a3812d50f26eb1",
 "icons/rms_logo.png": "4f48a9e79a7d6d37fb46154ecdcad9be",
 "manifest.json": "4dcf72d7738ab0527702c5702a808d59",
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a",
-"main.dart.js": "7e497829ad714542df4251d802a2cec2"};
+"main.dart.js": "76986509a7b9a81e2f146bcaee8e66ee"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
