@@ -128553,7 +128553,7 @@ a2.b2(0,a1)
 c=new A.aX(Date.now(),!1)
 b=A.ws("yyyy,MM,dd",null).ir(c)
 a=A.dP(a0,a0.gce().d8("students")).dh(b4.a)
-a7=A.ac(["room.apartmentNumber",a4,"room.blockNumber",a3,"room.roomLetter",a5,"room.roomType",b3.e.b,"file.invoiceUrl","","file.leaseUrl","","cancellation.signInDate",b],a6,a7)
+a7=A.ac(["room.apartmentNumber",a4,"room.blockNumber",a3,"room.roomLetter",a5,"room.roomType",b3.e.b,"file.invoiceUrl","","file.leaseUrl","","lease.status","inactive","cancellation.signInDate",b],a6,a7)
 a6=a.a
 a7=A.fF(a7)
 a7.toString
