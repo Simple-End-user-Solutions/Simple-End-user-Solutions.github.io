@@ -89,8 +89,8 @@ const RESOURCES = {"icons/rms_logo.jpg": "384d9c545a768ce69cf8f82fed69a85b",
 "/": "9c2e5b72625f85cf82e57a8f68e393f0",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"flutter_bootstrap.js": "4beb6adee511a828bce8120932c609a1",
-"main.dart.js": "a6e6bd452f63ff1b2a2b7b3cd31d1670"};
+"flutter_bootstrap.js": "fdca2b555f4241e9c48cd4270bc57843",
+"main.dart.js": "2db7b5ba465b192ee55dbdd67979a298"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
