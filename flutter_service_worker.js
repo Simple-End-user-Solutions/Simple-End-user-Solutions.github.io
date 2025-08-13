@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "7e441d454ea3268c997461b46711fd8c",
+const RESOURCES = {"flutter_bootstrap.js": "9c90b07c07efd9cf5b88ccddc6842a96",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/rms_logo.png": "4f48a9e79a7d6d37fb46154ecdcad9be",
@@ -20,7 +20,7 @@ const RESOURCES = {"flutter_bootstrap.js": "7e441d454ea3268c997461b46711fd8c",
 "canvaskit/skwasm.js.symbols": "e72c79950c8a8483d826a7f0560573a1",
 "canvaskit/canvaskit.wasm": "7a3f4ae7d65fc1de6a6e7ddd3224bc93",
 "canvaskit/canvaskit.js.symbols": "bdcd3835edf8586b6d6edfce8749fb77",
-"main.dart.js": "2ff6f5bef8d3e2abef0e0de4846386fd",
+"main.dart.js": "abf1bc66490671ccd16e1e75cfc2ca08",
 "index.html": "9c2e5b72625f85cf82e57a8f68e393f0",
 "/": "9c2e5b72625f85cf82e57a8f68e393f0",
 "assets/documents/rules_and_reg/images/15.jpg": "bb0505e0e9189827adc831c3cf098100",
