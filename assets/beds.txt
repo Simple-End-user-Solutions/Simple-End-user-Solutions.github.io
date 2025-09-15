@@ -1,0 +1,2585 @@
+1|001|A1|2 Sharing$
+1|001|A2|2 Sharing$
+1|001|B1|Single$
+1|001|C1|2 Sharing$
+1|001|C2|2 Sharing$
+1|001|D1|2 Sharing$
+1|001|D2|2 Sharing$
+1|001|E1|2 Sharing$
+1|001|E2|2 Sharing$
+1|001|F1|2 Sharing$
+1|001|F2|2 Sharing$
+
+1|002|A1|2 Sharing$
+1|002|A2|2 Sharing$
+1|002|B1|2 Sharing$
+1|002|B2|2 Sharing$
+
+1|003|A1|2 Sharing$
+1|003|A2|2 Sharing$
+1|003|B1|Single$
+1|003|C1|2 Sharing$
+1|003|C2|2 Sharing$
+1|003|D1|2 Sharing$
+1|003|D2|2 Sharing$
+1|003|E1|2 Sharing$
+1|003|E2|2 Sharing$
+1|003|F1|2 Sharing$
+1|003|F2|2 Sharing$
+
+1|101|A1|2 Sharing$
+1|101|A2|2 Sharing$
+1|101|B1|Single$
+1|101|C1|2 Sharing$
+1|101|C2|2 Sharing$
+1|101|D1|2 Sharing$
+1|101|D2|2 Sharing$
+1|101|E1|2 Sharing$
+1|101|E2|2 Sharing$
+1|101|F1|2 Sharing$
+1|101|F2|2 Sharing$
+
+1|102|A1|2 Sharing$
+1|102|A2|2 Sharing$
+1|102|B1|2 Sharing$
+1|102|B2|2 Sharing$
+
+1|103|A1|2 Sharing$
+1|103|A2|2 Sharing$
+1|103|B1|Single$
+1|103|C1|2 Sharing$
+1|103|C2|2 Sharing$
+1|103|D1|2 Sharing$
+1|103|D2|2 Sharing$
+1|103|E1|2 Sharing$
+1|103|E2|2 Sharing$
+1|103|F1|2 Sharing$
+1|103|F2|2 Sharing$
+
+1|201|A1|2 Sharing$
+1|201|A2|2 Sharing$
+1|201|B1|Single$
+1|201|C1|2 Sharing$
+1|201|C2|2 Sharing$
+1|201|D1|2 Sharing$
+1|201|D2|2 Sharing$
+1|201|E1|2 Sharing$
+1|201|E2|2 Sharing$
+1|201|F1|2 Sharing$
+1|201|F2|2 Sharing$
+
+1|202|A1|2 Sharing$
+1|202|A2|2 Sharing$
+1|202|B1|2 Sharing$
+1|202|B2|2 Sharing$
+
+1|203|A1|2 Sharing$
+1|203|A2|2 Sharing$
+1|203|B1|Single$
+1|203|C1|2 Sharing$
+1|203|C2|2 Sharing$
+1|203|D1|2 Sharing$
+1|203|D2|2 Sharing$
+1|203|E1|2 Sharing$
+1|203|E2|2 Sharing$
+1|203|F1|2 Sharing$
+1|203|F2|2 Sharing$
+
+2|001|A1|2 SHARING$
+2|001|A2|2 SHARING$
+2|001|B1|SINGLE$
+2|001|C1|2 Sharing$
+2|001|C2|2 Sharing$
+2|001|D1|2 SHARING$
+2|001|D2|2 SHARING$
+2|001|E1|2 SHARING$
+2|001|E2|2 SHARING$
+2|001|F1|2 SHARING$
+2|001|F2|2 SHARING$
+
+2|002|A1|2 SHARING$
+2|002|A2|2 SHARING$
+2|002|B1|2 SHARING$
+2|002|B2|2 SHARING$
+
+2|003|A1|2 SHARING$
+2|003|A2|2 SHARING$
+2|003|B1|SINGLE$
+2|003|C1|2 Sharing$
+2|003|C2|2 Sharing$
+2|003|D1|2 SHARING$
+2|003|D2|2 SHARING$
+2|003|E1|2 SHARING$
+2|003|E2|2 SHARING$
+2|003|F1|2 SHARING$
+2|003|F2|2 SHARING$
+
+2|101|A1|2 SHARING$
+2|101|A2|2 SHARING$
+2|101|B1|SINGLE$
+2|101|C1|2 SHARING$
+2|101|C2|2 SHARING$
+2|101|D1|2 SHARING$
+2|101|D2|2 SHARING$
+2|101|E1|2 SHARING$
+2|101|E2|2 SHARING$
+2|101|F1|2 SHARING$
+2|101|F2|2 SHARING$
+
+2|102|A1|2 SHARING$
+2|102|A2|2 SHARING$
+2|102|B1|2 SHARING$
+2|102|B2|2 SHARING$
+
+2|103|A1|2 SHARING$
+2|103|A2|2 SHARING$
+2|103|B1|SINGLE$
+2|103|C1|2 Sharing$
+2|103|C2|2 Sharing$
+2|103|D1|2 SHARING$
+2|103|D2|2 SHARING$
+2|103|E1|2 SHARING$
+2|103|E2|2 SHARING$
+2|103|F1|2 SHARING$
+2|103|F2|2 SHARING$
+
+2|201|A1|2 SHARING$
+2|201|A2|2 SHARING$
+2|201|B1|SINGLE$
+2|201|C1|2 Sharing$
+2|201|C2|2 Sharing$
+2|201|D1|2 SHARING$
+2|201|D2|2 SHARING$
+2|201|E1|2 SHARING$
+2|201|E2|2 SHARING$
+2|201|F1|2 SHARING$
+2|201|F2|2 SHARING$
+
+2|202|A1|2 SHARING$
+2|202|A2|2 SHARING$
+2|202|B1|2 SHARING$
+2|202|B2|2 SHARING$
+
+2|203|A1|2 SHARING$
+2|203|A2|2 SHARING$
+2|203|B1|SINGLE$
+2|203|C1|2 Sharing$
+2|203|C2|2 Sharing$
+2|203|D1|2 SHARING$
+2|203|D2|2 SHARING$
+2|203|E1|2 SHARING$
+2|203|E2|2 SHARING$
+2|203|F1|2 SHARING$
+2|203|F2|2 SHARING$
+
+3|001|A1|2 Sharing$
+3|001|A2|2 Sharing$
+3|001|B1|Single$
+3|001|C1|2 Sharing$
+3|001|C2|2 Sharing$
+3|001|D1|2 Sharing$
+3|001|D2|2 Sharing$
+3|001|E1|2 Sharing$
+3|001|E2|2 Sharing$
+3|001|F1|2 Sharing$
+3|001|F2|2 Sharing$
+
+3|002|A1|2 Sharing$
+3|002|A2|2 Sharing$
+3|002|B1|2 Sharing$
+3|002|B2|2 Sharing$
+
+3|003|A1|2 Sharing$
+3|003|A2|2 Sharing$
+3|003|B1|2 Sharing$
+3|003|B2|2 Sharing$
+
+3|004|A1|2 Sharing$
+3|004|A2|2 Sharing$
+3|004|B1|Single$
+3|004|C1|2 Sharing$
+3|004|C2|2 Sharing$
+3|004|D1|2 Sharing$
+3|004|D2|2 Sharing$
+3|004|E1|2 Sharing$
+3|004|E2|2 Sharing$
+3|004|F1|2 Sharing$
+3|004|F2|2 Sharing$
+
+3|101|A1|2 Sharing$
+3|101|A2|2 Sharing$
+3|101|B|Single$
+3|101|C1|2 Sharing$
+3|101|C2|2 Sharing$
+3|101|D1|2 Sharing$
+3|101|D2|2 Sharing$
+3|101|E1|2 Sharing$
+3|101|E2|2 Sharing$
+3|101|F1|2 Sharing$
+3|101|F2|2 Sharing$
+
+3|102|A1|2 Sharing$
+3|102|A2|2 Sharing$
+3|102|B1|2 Sharing$
+3|102|B2|2 Sharing$
+
+3|103|A1|2 Sharing$
+3|103|A2|2 Sharing$
+3|103|B1|2 Sharing$
+3|103|B2|2 Sharing$
+
+3|104|A1|2 Sharing$
+3|104|A2|2 Sharing$
+3|104|B1|Single$
+3|104|C1|2 Sharing$
+3|104|C2|2 Sharing$
+3|104|D1|2 Sharing$
+3|104|D2|2 Sharing$
+3|104|E1|2 Sharing$
+3|104|E2|2 Sharing$
+3|104|F1|2 Sharing$
+3|104|F2|2 Sharing$
+
+3|201|A1|2 Sharing$
+3|201|A2|2 Sharing$
+3|201|B1|Single$
+3|201|C1|2 Sharing$
+3|201|C2|2 Sharing$
+3|201|D1|2 Sharing$
+3|201|D2|2 Sharing$
+3|201|E1|2 Sharing$
+3|201|E2|2 Sharing$
+3|201|F1|2 Sharing$
+3|201|F2|2 Sharing$
+
+3|202|A1|2 Sharing$
+3|202|A2|2 Sharing$
+3|202|B1|2 Sharing$
+3|202|B2|2 Sharing$
+
+3|203|A1|2 Sharing$
+3|203|A2|2 Sharing$
+3|203|B1|2 Sharing$
+3|203|B2|2 Sharing$
+
+3|204|A1|2 Sharing$
+3|204|A2|2 Sharing$
+3|204|B1|Single$
+3|204|C1|2 Sharing$
+3|204|C2|2 Sharing$
+3|204|D1|2 Sharing$
+3|204|D2|2 Sharing$
+3|204|E1|2 Sharing$
+3|204|E2|2 Sharing$ 
+3|204|F1|2 Sharing$
+3|204|F2|2 Sharing$
+
+4|001|A1|2 Sharing$
+4|001|A2|2 Sharing$
+4|001|B1|Single$
+4|001|C1|2 Sharing$
+4|001|C2|2 Sharing$
+4|001|D1|2 Sharing$
+4|001|D2|2 Sharing$
+4|001|E1|2 Sharing$
+4|001|E2|2 Sharing$
+4|001|F1|2 Sharing$
+4|001|F2|2 Sharing$
+
+4|002|A1|2 Sharing$
+4|002|A2|2 Sharing$
+4|002|B1|2 Sharing$
+4|002|B2|2 Sharing$
+
+4|003|A1|2 Sharing$
+4|003|A2|2 Sharing$
+4|003|B1|2 Sharing$
+4|003|B2|2 Sharing$
+
+4|004|A1|2 Sharing$
+4|004|A2|2 Sharing$
+4|004|B1|Single$
+4|004|C1|2 Sharing$
+4|004|C2|2 Sharing$
+4|004|D1|2 Sharing$
+4|004|D2|2 Sharing$
+4|004|E1|2 Sharing$
+4|004|E2|2 Sharing$
+4|004|F1|2 Sharing$
+4|004|F2|2 Sharing$
+
+4|101|A1|2 Sharing$
+4|101|A2|2 Sharing$
+4|101|B1|Single$
+4|101|C1|2 Sharing$
+4|101|C2|2 Sharing$
+4|101|D1|2 Sharing$
+4|101|D2|2 Sharing$
+4|101|E1|2 Sharing$
+4|101|E2|2 Sharing$
+4|101|F1|2 Sharing$
+4|101|F2|2 Sharing$
+
+4|102|A1|2 Sharing$
+4|102|A2|2 Sharing$
+4|102|B1|2 Sharing$
+4|102|B2|2 Sharing$
+
+4|103|A1|2 Sharing$
+4|103|A2|2 Sharing$
+4|103|B1|2 Sharing$
+4|103|B2|2 Sharing$
+
+4|104|A1|2 Sharing$
+4|104|A2|2 Sharing$
+4|104|B1|Single$
+4|104|C1|2 Sharing$
+4|104|C2|2 Sharing$
+4|104|D1|2 Sharing$
+4|104|D2|2 Sharing$
+4|104|E1|2 Sharing$
+4|104|E2|2 Sharing$
+4|104|F1|2 Sharing$
+4|104|F2|2 Sharing$
+
+4|201|A1|2 Sharing$
+4|201|A2|2 Sharing$
+4|201|B1|Single$
+4|201|C1|2 Sharing$
+4|201|C2|2 Sharing$
+4|201|D1|2 Sharing$
+4|201|D2|2 Sharing$
+4|201|E1|2 Sharing$
+4|201|E2|2 Sharing$
+4|201|F1|2 Sharing$
+4|201|F2|2 Sharing$
+
+4|202|A1|2 Sharing$
+4|202|A2|2 Sharing$
+4|202|B1|2 Sharing$
+4|202|B2|2 Sharing$
+
+4|203|A1|2 Sharing$
+4|203|A2|2 Sharing$
+4|203|B1|2 Sharing$
+4|203|B2|2 Sharing$
+
+4|204|A1|2 Sharing$
+4|204|A2|2 Sharing$
+4|204|B1|Single$
+4|204|C1|2 Sharing$
+4|204|C2|2 Sharing$
+4|204|D1|2 Sharing$
+4|204|D2|2 Sharing$
+4|204|E1|2 Sharing$
+4|204|E2|2 Sharing$
+4|204|F1|2 Sharing$
+4|204|F2|2 Sharing$
+
+5|001|A1|2 Sharing$
+5|001|A2|2 Sharing$
+5|001|B1|Single$
+5|001|C1|2 Sharing$
+5|001|C2|2 Sharing$
+5|001|D1|2 Sharing$
+5|001|D2|2 Sharing$
+5|001|E1|2 Sharing$
+5|001|E2|2 Sharing$
+5|001|F1|2 Sharing$
+5|001|F2|2 Sharing$
+
+5|002|A1|2 Sharing$
+5|002|A2|2 Sharing$
+5|002|B1|2 Sharing$
+5|002|B2|2 Sharing$
+
+5|003|A1|2 Sharing$
+5|003|A2|2 Sharing$
+5|003|B1|2 Sharing$
+5|003|B2|2 Sharing$
+
+5|004|A1|2 Sharing$
+5|004|A2|2 Sharing$
+5|004|B1|2 Sharing$
+5|004|B2|2 Sharing$
+
+5|005|A1|2 Sharing$
+5|005|A2|2 Sharing$
+5|005|B1|2 Sharing$
+5|005|B2|2 Sharing$
+
+5|006|A1|2 Sharing$
+5|006|A2|2 Sharing$
+5|006|B1|Single$
+5|006|C1|2 Sharing$
+5|006|C2|2 Sharing$
+5|006|D1|2 Sharing$
+5|006|D2|2 Sharing$
+5|006|E1|2 Sharing$
+5|006|E2|2 Sharing$
+5|006|F1|2 Sharing$
+5|006|F2|2 Sharing$
+
+5|101|A1|2 Sharing$
+5|101|A2|2 Sharing$
+5|101|B1|Single$
+5|101|C1|2 Sharing$
+5|101|C2|2 Sharing$
+5|101|D1|2 Sharing$
+5|101|D2|2 Sharing$
+5|101|E1|2 Sharing$
+5|101|E2|2 Sharing$
+5|101|F1|2 Sharing$
+5|101|F2|2 Sharing$
+
+5|102|A1|2 Sharing$
+5|102|A2|2 Sharing$
+5|102|B1|2 Sharing$
+5|102|B2|2 Sharing$
+
+5|103|A1|2 Sharing$
+5|103|A2|2 Sharing$
+5|103|B1|2 Sharing$
+5|103|B2|2 Sharing$
+
+5|104|A1|2 Sharing$
+5|104|A2|2 Sharing$
+5|104|B1|2 Sharing$
+5|104|B2|2 Sharing$
+
+5|105|A1|2 Sharing$
+5|105|A2|2 Sharing$
+5|105|B1|2 Sharing$
+5|105|B2|2 Sharing$
+
+5|106|A1|2 Sharing$
+5|106|A2|2 Sharing$
+5|106|B1|Single$
+5|106|C1|2 Sharing$
+5|106|C2|2 Sharing$
+5|106|D1|2 Sharing$
+5|106|D2|2 Sharing$
+5|106|E1|2 Sharing$
+5|106|E2|2 Sharing$
+5|106|F1|2 Sharing$
+5|106|F2|2 Sharing$
+
+5|201|A1|2 Sharing$
+5|201|A2|2 Sharing$
+5|201|B1|Single$
+5|201|C1|2 Sharing$
+5|201|C2|2 Sharing$
+5|201|D1|2 Sharing$
+5|201|D2|2 Sharing$
+5|201|E1|2 Sharing$
+5|201|E2|2 Sharing$
+5|201|F1|2 Sharing$
+5|201|F2|2 Sharing$
+
+5|202|A1|2 Sharing$
+5|202|A2|2 Sharing$
+5|202|B1|2 Sharing$
+5|202|B2|2 Sharing$
+
+5|203|A1|2 Sharing$
+5|203|A2|2 Sharing$
+5|203|B1|2 Sharing$
+5|203|B2|2 Sharing$
+
+5|204|A1|2 Sharing$
+5|204|A2|2 Sharing$
+5|204|B1|2 Sharing$
+5|204|B2|2 Sharing$
+
+5|205|A1|2 Sharing$
+5|205|A2|2 Sharing$
+5|205|B1|2 Sharing$
+5|205|B2|2 Sharing$
+
+5|206|A1|2 Sharing$
+5|206|A2|2 Sharing$
+5|206|B1|Single$
+5|206|C1|2 Sharing$
+5|206|C2|2 Sharing$
+5|206|D1|2 Sharing$
+5|206|D2|2 Sharing$
+5|206|E1|2 Sharing$
+5|206|E2|2 Sharing$
+5|206|F1|2 Sharing$
+5|206|F2|2 Sharing$
+
+6|001|A1|2 Sharing$
+6|001|B1|Single$
+6|001|C1|2 Sharing$
+6|001|C2|2 Sharing$
+6|001|D1|2 Sharing$
+6|001|D2|2 Sharing$
+6|001|E1|2 Sharing$
+6|001|E2|2 Sharing$
+6|001|F1|2 Sharing$
+6|001|F2|2 Sharing$
+
+6|002|A1|2 Sharing$
+6|002|A2|2 Sharing$
+6|002|B1|2 Sharing$
+6|002|B2|2 Sharing$
+
+6|003|A1|2 Sharing$
+6|003|A2|2 Sharing$
+6|003|B1|2 Sharing$
+6|003|B2|2 Sharing$
+
+6|004|A1|2 Sharing$
+6|004|A2|2 Sharing$
+6|004|B1|2 Sharing$
+6|004|B2|2 Sharing$
+
+6|005|A1|2 Sharing$
+6|005|A2|2 Sharing$
+6|005|B1|2 Sharing$
+6|005|B2|2 Sharing$
+
+6|006|A1|2 Sharing$
+6|006|A2|2 Sharing$
+6|006|B1|Single$
+6|006|C1|2 Sharing$
+6|006|C2|2 Sharing$
+6|006|D1|2 Sharing$
+6|006|D2|2 Sharing$
+6|006|E1|2 Sharing$
+6|006|E2|2 Sharing$
+6|006|F1|2 Sharing$
+6|006|F2|2 Sharing$
+
+6|101|A1|2 Sharing$
+6|101|A2|2 Sharing$
+6|101|B1|Single$
+6|101|C1|2 Sharing$
+6|101|C2|2 Sharing$
+6|101|D1|2 Sharing$
+6|101|D2|2 Sharing$
+6|101|E1|2 Sharing$
+6|101|E2|2 Sharing$
+6|101|F1|2 Sharing$
+6|101|F2|2 Sharing$
+
+6|102|A1|2 Sharing$
+6|102|A2|2 Sharing$
+6|102|B1|2 Sharing$
+6|102|B2|2 Sharing$
+
+6|103|A1|2 Sharing$
+6|103|A2|2 Sharing$
+6|103|B1|2 Sharing$
+6|103|B2|2 Sharing$
+
+6|104|A1|2 Sharing$
+6|104|A2|2 Sharing$
+6|104|B1|2 Sharing$
+6|104|B2|2 Sharing$
+
+6|105|A1|2 Sharing$
+6|105|A2|2 Sharing$
+6|105|B1|2 Sharing$
+6|105|B2|2 Sharing$
+
+6|106|A1|2 Sharing$
+6|106|A2|2 Sharing$
+6|106|B1|Single$
+6|106|C1|2 Sharing$
+6|106|C2|2 Sharing$
+6|106|D1|2 Sharing$
+6|106|D2|2 Sharing$
+6|106|E1|2 Sharing$
+6|106|E2|2 Sharing$
+6|106|F1|2 Sharing$
+6|106|F2|2 Sharing$
+
+6|201|A1|2 Sharing$
+6|201|A2|2 Sharing$
+6|201|B1|Single$
+6|201|C1|2 Sharing$
+6|201|C2|2 Sharing$
+6|201|D1|2 Sharing$
+6|201|D2|2 Sharing$
+6|201|E1|2 Sharing$
+6|201|E2|2 Sharing$
+6|201|F1|2 Sharing$
+6|201|F2|2 Sharing$
+
+6|202|A1|2 Sharing$
+6|202|A2|2 Sharing$
+6|202|B1|2 Sharing$
+6|202|B2|2 Sharing$
+
+6|203|A1|2 Sharing$
+6|203|A2|2 Sharing$
+6|203|B1|2 Sharing$
+6|203|B2|2 Sharing$
+
+6|204|A1|2 Sharing$
+6|204|A2|2 Sharing$
+6|204|B1|2 Sharing$
+6|204|B2|2 Sharing$
+
+6|205|A1|2 Sharing$
+6|205|A2|2 Sharing$
+6|205|B1|2 Sharing$
+6|205|B2|2 Sharing$
+
+6|206|A1|2 Sharing$
+6|206|A2|2 Sharing$
+6|206|B1|Single$
+6|206|C1|2 Sharing$
+6|206|C2|2 Sharing$
+6|206|D1|2 Sharing$
+6|206|D2|2 Sharing$
+6|206|E1|2 Sharing$
+6|206|E2|2 Sharing$
+6|206|F1|2 Sharing$
+6|206|F2|2 Sharing$
+
+7|001|A1|2 Sharing$
+7|001|A2|2 Sharing$
+7|001|B1|Single$
+7|001|C1|2 Sharing$
+7|001|C2|2 Sharing$
+7|001|D1|2 Sharing$
+7|001|D2|2 Sharing$
+7|001|E1|2 Sharing$
+7|001|E2|2 Sharing$
+7|001|F1|2 Sharing$
+7|001|F2|2 Sharing$
+
+7|002|A1|2 Sharing$
+7|002|A2|2 Sharing$
+7|002|A3|2 Sharing$
+7|002|A4|2 Sharing$
+
+7|003|A1|2 Sharing$
+7|003|A2|2 Sharing$
+7|003|B1|2 Sharing$
+7|003|B2|2 Sharing$
+
+7|004|A1|2 Sharing$
+7|004|A2|2 Sharing$
+7|004|B1|2 Sharing$
+7|004|B2|2 Sharing$
+
+7|005|A1|2 Sharing$
+7|005|A2|2 Sharing$
+7|005|B1|2 Sharing$
+7|005|B2|2 Sharing$
+
+7|006|A1|2 Sharing$
+7|006|A2|2 Sharing$
+7|006|B1|Single$
+7|006|C1|2 Sharing$
+7|006|C2|2 Sharing$
+7|006|D1|2 Sharing$
+7|006|D2|2 Sharing$
+7|006|E1|2 Sharing$
+7|006|E2|2 Sharing$
+7|006|F1|2 Sharing$
+7|006|F2|2 Sharing$
+
+7|101|A1|2 Sharing$
+7|101|A2|2 Sharing$
+7|101|B1|Single$
+7|101|C1|2 Sharing$
+7|101|C2|2 Sharing$
+7|101|D1|2 Sharing$
+7|101|D2|2 Sharing$
+7|101|E1|2 Sharing$
+7|101|E2|2 Sharing$
+7|101|F1|2 Sharing$
+7|101|F2|2 Sharing$
+
+7|102|A1|2 Sharing$
+7|102|A2|2 Sharing$
+7|102|B1|2 Sharing$
+7|102|B2|2 Sharing$
+
+7|103|A1|2 Sharing$
+7|103|A2|2 Sharing$
+7|103|B1|2 Sharing$
+7|103|B2|2 Sharing$
+
+7|104|A1|2 Sharing$
+7|104|A2|2 Sharing$
+7|104|B1|2 Sharing$
+7|104|B2|2 Sharing$
+
+7|105|A1|2 Sharing$
+7|105|A2|2 Sharing$
+7|105|B1|2 Sharing$
+7|105|B2|2 Sharing$
+
+7|106|A1|2 Sharing$
+7|106|A2|2 Sharing$
+7|106|B1|Single$
+7|106|C1|2 Sharing$
+7|106|C2|2 Sharing$
+7|106|D1|2 Sharing$
+7|106|D2|2 Sharing$
+7|106|E1|2 Sharing$
+7|106|E2|2 Sharing$
+7|106|F1|2 Sharing$
+7|106|F2|2 Sharing$
+
+7|201|A1|2 Sharing$
+7|201|A2|2 Sharing$
+7|201|B1|Single$
+7|201|C1|2 Sharing$
+7|201|C2|2 Sharing$
+7|201|D1|2 Sharing$
+7|201|D2|2 Sharing$
+7|201|E1|2 Sharing$
+7|201|E2|2 Sharing$
+7|201|F1|2 Sharing$
+7|201|F2|2 Sharing$
+
+7|202|A1|2 Sharing$
+7|202|A2|2 Sharing$
+7|202|B1|2 Sharing$
+7|202|B2|2 Sharing$
+
+7|203|A1|2 Sharing$
+7|203|A2|2 Sharing$
+7|203|B1|2 Sharing$
+7|203|B2|2 Sharing$
+
+7|204|A1|2 Sharing$
+7|204|A2|2 Sharing$
+7|204|B1|2 Sharing$
+7|204|B2|2 Sharing$
+
+7|205|A1|2 Sharing$
+7|205|A2|2 Sharing$
+7|205|B1|2 Sharing$
+7|205|B2|2 Sharing$
+
+7|206|A1|2 Sharing$
+7|206|A2|2 Sharing$
+7|206|B1|Single$
+7|206|C1|2 Sharing$
+7|206|C2|2 Sharing$
+7|206|D1|2 Sharing$
+7|206|D2|2 Sharing$
+7|206|E1|2 Sharing$
+7|206|E2|2 Sharing$
+7|206|F1|2 Sharing$
+7|206|F2|2 Sharing$
+
+8|001|A1|2 Sharing$
+8|001|A2|2 Sharing$
+8|001|B1|Single$
+8|001|C1|2 Sharing$
+8|001|C2|2 Sharing$
+8|001|D1|2 Sharing$
+8|001|D2|2 Sharing$
+8|001|E1|2 Sharing$
+8|001|E2|2 Sharing$
+8|001|F1|2 Sharing$
+8|001|F2|2 Sharing$
+
+8|002|A1|2 Sharing$
+8|002|A2|2 Sharing$
+8|002|B1|2 Sharing$
+8|002|B2|2 Sharing$
+
+8|003|A1|2 Sharing$
+8|003|A2|2 Sharing$
+8|003|B1|2 Sharing$
+8|003|B2|2 Sharing$
+
+8|004|A1|2 Sharing$
+8|004|A2|2 Sharing$
+8|004|B1|2 Sharing$
+8|004|B2|2 Sharing$
+
+8|005|A1|2 Sharing$
+8|005|A2|2 Sharing$
+8|005|B1|2 Sharing$
+8|005|B2|2 Sharing$
+
+8|006|A1|2 Sharing$
+8|006|A2|2 Sharing$
+8|006|B1|Single$
+8|006|C1|2 Sharing$
+8|006|C2|2 Sharing$
+8|006|D1|2 Sharing$
+8|006|D2|2 Sharing$
+8|006|E1|2 Sharing$
+8|006|E2|2 Sharing$
+8|006|F1|2 Sharing$
+8|006|F2|2 Sharing$
+
+8|101|A1|2 Sharing$
+8|101|A2|2 Sharing$
+8|101|B|Single$
+8|101|C1|2 Sharing$
+8|101|C2|2 Sharing$
+8|101|D1|2 Sharing$
+8|101|D2|2 Sharing$
+8|101|E1|2 Sharing$
+8|101|E2|2 Sharing$
+8|101|F1|2 Sharing$
+8|101|F2|2 Sharing$
+
+8|102|A1|2 Sharing$
+8|102|A2|2 Sharing$
+8|102|B1|2 Sharing$
+8|102|B2|2 Sharing$
+
+8|103|A1|2 Sharing$
+8|103|A2|2 Sharing$
+8|103|B1|2 Sharing$
+8|103|B2|2 Sharing$
+
+8|104|A1|2 Sharing$
+8|104|A2|2 Sharing$
+8|104|B1|2 Sharing$
+8|104|B2|2 Sharing$
+
+8|105|A1|2 Sharing$
+8|105|A2|2 Sharing$
+8|105|B1|2 Sharing$
+8|105|B2|2 Sharing$
+
+8|106|A1|2 Sharing$
+8|106|A2|2 Sharing$
+8|106|B1|Single$
+8|106|C1|2 Sharing$
+8|106|C2|2 Sharing$
+8|106|D1|2 Sharing$
+8|106|D2|2 Sharing$
+8|106|E1|2 Sharing$
+8|106|E2|2 Sharing$
+8|106|F1|2 Sharing$
+8|106|F2|2 Sharing$
+
+8|201|A1|2 Sharing$
+8|201|A2|2 Sharing$
+8|201|B1|Single$
+8|201|C1|2 Sharing$
+8|201|C2|2 Sharing$
+8|201|D1|2 Sharing$
+8|201|D2|2 Sharing$
+8|201|E1|2 Sharing$
+8|201|E2|2 Sharing$
+8|201|F1|2 Sharing$
+8|201|F2|2 Sharing$
+
+8|202|A1|2 Sharing$
+8|202|A2|2 Sharing$
+8|202|B1|2 Sharing$
+8|202|B2|2 Sharing$
+
+8|203|A1|2 Sharing$
+8|203|A2|2 Sharing$
+8|203|B1|2 Sharing$
+8|203|B2|2 Sharing$
+
+8|204|A1|2 Sharing$
+8|204|A2|2 Sharing$
+8|204|B1|2 Sharing$
+8|204|B2|2 Sharing$
+
+8|205|A1|2 Sharing$
+8|205|A2|2 Sharing$
+8|205|B1|2 Sharing$
+8|205|B2|2 Sharing$
+
+8|206|A1|2 Sharing$
+8|206|A2|2 Sharing$
+8|206|B1|Single$
+8|206|C1|2 Sharing$
+8|206|C2|2 Sharing$
+8|206|D1|2 Sharing$
+8|206|D2|2 Sharing$
+8|206|E1|2 Sharing$
+8|206|E2|2 Sharing$
+8|206|F1|2 Sharing$
+8|206|F2|2 Sharing$
+
+9|001|A1|2 Sharing$
+9|001|A2|2 Sharing$
+9|001|B1|Single$
+9|001|C1|2 Sharing$
+9|001|C2|2 Sharing$
+9|001|D1|2 Sharing$
+9|001|D2|2 Sharing$
+9|001|E1|2 Sharing$
+9|001|E2|2 Sharing$
+9|001|F1|2 Sharing$
+9|001|F2|2 Sharing$
+
+9|002|A1|2 Sharing$
+9|002|A2|2 Sharing$
+9|002|B1|2 Sharing$
+9|002|B2|2 sharing$
+
+9|003|A1|2 Sharing$
+9|003|A2|2 Sharing$
+9|003|B1|2 Sharing$
+9|003|B2|2 Sharing$
+
+9|004|A1|2 Sharing$
+9|004|B1|Single$
+9|004|C1|2 Sharing$
+9|004|C2|2 Sharing$
+9|004|D1|2 Sharing$
+9|004|D2|2 Sharing$
+9|004|E1|2 Sharing$
+9|004|E2|2 Sharing$
+9|004|F1|2 Sharing$
+9|004|F2|2 Sharing$
+
+9|101|A1|2 Sharing$
+9|101|A2|2 Sharing$
+9|101|B|Single$
+9|101|C1|2 Sharing$
+9|101|C2|2 Sharing$
+9|101|D1|2 Sharing$
+9|101|D2|2 Sharing$
+9|101|E1|2 Sharing$
+9|101|E2|2 Sharing$
+9|101|F1|2 Sharing$
+9|101|F2|2 Sharing$
+
+9|102|A1|2 Sharing$
+9|102|A2|2 Sharing$
+9|102|B1|2 Sharing$
+9|102|B2|2 Sharing$
+
+9|103|A1|2 Sharing$
+9|103|A2|2 Sharing$
+9|103|B1|2 Sharing$
+9|103|B2|2 Sharing$
+
+9|104|A1|2 Sharing$
+9|104|A2|2 Sharing$
+9|104|B1|Single$
+9|104|C1|2 Sharing$
+9|104|C2|2 Sharing$
+9|104|D1|2 Sharing$
+9|104|D2|2 Sharing$
+9|104|E1|2 Sharing$
+9|104|E2|2 Sharing$
+9|104|F1|2 Sharing$
+9|104|F2|2 Sharing$
+
+9|201|A1|2 Sharing$
+9|201|A2|2 Sharing$
+9|201|B1|Single$
+9|201|C1|2 Sharing$
+9|201|C2|2 Sharing$
+9|201|D1|2 Sharing$
+9|201|D2|2 Sharing$
+9|201|E1|2 Sharing$
+9|201|E2|2 Sharing$
+9|201|F1|2 Sharing$
+9|201|F2|2 Sharing$
+
+9|202|A1|2 Sharing$
+9|202|A2|2 Sharing$
+9|202|B1|2 Sharing$
+9|202|B2|2 Sharing$
+
+9|203|A1|2 Sharing$
+9|203|A2|2 Sharing$
+9|203|B1|2 Sharing$
+9|203|B2|2 Sharing$
+
+9|204|A1|2 Sharing$
+9|204|A2|2 Sharing$
+9|204|B1|Single$
+9|204|C1|2 Sharing$
+9|204|C2|2 Sharing$
+9|204|D1|2 Sharing$
+9|204|D2|2 Sharing$
+9|204|E1|2 Sharing$
+9|204|E2|2 Sharing$
+9|204|F1|2 Sharing$
+9|204|F2|2 Sharing$
+
+10|001|A|Single$
+10|001|B|Single$
+10|001|C|Single$
+10|001|D|Single$
+10|001|E|Single$
+10|001|F1|2 Sharing$
+10|001|F2|2 Sharing$
+10|001|G|Single$
+10|001|H1|2 Sharing$
+10|001|H2|2 Sharing$
+
+10|002|A1|2 Sharing$
+10|002|A2|2 Sharing$
+10|002|B1|2 Sharing$
+10|002|B2|2 Sharing$
+
+10|003|A1|2 Sharing$
+10|003|A2|2 Sharing$
+10|003|B1|2 Sharing$
+10|003|B2|2 Sharing$
+
+10|004|A1|2 Sharing$
+10|004|A2|2 Sharing$
+10|004|B1|2 Sharing$
+10|004|B2|2 Sharing$
+
+10|005|A1|2 Sharing$
+10|005|A2|2 Sharing$
+10|005|B1|2 Sharing$
+10|005|B2|2 Sharing$
+
+10|006|A|Single$
+10|006|B|Single$
+10|006|C|Single$
+10|006|D|Single$
+10|006|E|Single$
+10|006|F1|2 Sharing$
+10|006|F2|2 Sharing$
+10|006|G|Single$
+10|006|H1|2 Sharing$
+10|006|H2|2 Sharing$
+
+10|101|A|Single$
+10|101|B|Single$
+10|101|C|Single$
+10|101|D|Single$
+10|101|E|Single$
+10|101|F1|2 Sharing$
+10|101|F2|2 Sharing$
+10|101|G|Single$
+10|101|H1|2 Sharing$
+10|101|H2|2 Sharing$
+
+10|102|A1|2 Sharing$
+10|102|A2|2 Sharing$
+10|102|B1|2 Sharing$
+10|102|B2|2 Sharing$
+
+10|103|A1|2 Sharing$
+10|103|A2|2 Sharing$
+10|103|B1|2 Sharing$
+10|103|B2|2 Sharing$
+
+10|104|A1|2 Sharing$
+10|104|A2|2 Sharing$
+10|104|B1|2 Sharing$
+10|104|B2|2 Sharing$
+
+10|105|A1|2 Sharing$
+10|105|A2|2 Sharing$
+10|105|B1|2 Sharing$
+10|105|B2|2 Sharing$
+
+10|106|A|Single$
+10|106|B|Single$
+10|106|C|Single$
+10|106|D|Single$
+10|106|E|Single$
+10|106|F1|2 Sharing$
+10|106|F2|2 Sharing$
+10|106|G|Single$
+10|106|H1|2 Sharing$
+10|106|H2|2 Sharing$
+
+10|201|A|Single$
+10|201|B|Single$
+10|201|C|Single$
+10|201|D|Single$
+10|201|E|Single$
+10|201|F1|2 Sharing$
+10|201|F2|2 Sharing$
+10|201|G|Single$
+10|201|H1|2 Sharing$
+10|201|H2|2 Sharing$
+
+10|202|A1|2 Sharing$
+10|202|A2|2 Sharing$
+10|202|B1|2 Sharing$
+10|202|B2|2 Sharing$
+
+10|203|A1|2 Sharing$
+10|203|A2|2 Sharing$
+10|203|B1|2 Sharing$
+10|203|B2|2 Sharing$
+
+10|204|A1|2 Sharing$
+10|204|A2|2 Sharing$
+10|204|B1|2 Sharing$
+10|204|B2|2 Sharing$
+
+10|205|A1|2 Sharing$
+10|205|A2|2 Sharing$
+10|205|B1|2 Sharing$
+10|205|B2|2 Sharing$
+
+10|206|A|Single$
+10|206|B|Single$
+10|206|C|Single$
+10|206|D|Single$
+10|206|E|Single$
+10|206|F1|2 Sharing$
+10|206|F2|2 Sharing$
+10|206|G|Single$
+10|206|H1|2 Sharing$
+10|206|H2|2 Sharing$
+
+11|001|A|Single$
+11|001|B|Single$
+11|001|C|Single$
+11|001|D|Single$
+11|001|E|Single$
+11|001|F1|2 Sharing$
+10|00F|F2|2 Sharing$
+11|001|G|Single$
+11|001|H1|2 Sharing$
+11|001|H2|2 Sharing$
+
+11|002|A1|2 Sharing$
+11|002|A2|2 Sharing$
+11|002|B1|2 Sharing$
+11|002|B2|2 Sharing$
+
+11|003|A1|2 Sharing$
+11|003|A2|2 Sharing$
+11|003|B1|2 Sharing$
+11|003|B2|2 Sharing$
+
+11|004|A1|2 Sharing$
+11|004|A2|2 Sharing$
+11|004|B1|2 Sharing$
+11|004|B2|2 Sharing$
+
+11|005|A1|2 Sharing$
+11|005|A2|2 Sharing$
+11|005|B1|2 Sharing$
+11|005|B2|2 Sharing$
+
+11|006|A|Single$
+11|006|B|Single$
+11|006|C|Single$
+11|006|D|Single$
+11|006|E|Single$
+11|006|F1|2 Sharing$
+11|006|F2|2 Sharing$
+11|006|G|Single$
+11|006|H1|2 Sharing$
+11|006|H2|2 Sharing$
+
+11|101|A|Single$
+11|101|B|Single$
+11|101|C|Single$
+11|101|D|Single$
+11|101|E|Single$
+11|101|F1|2 Sharing$
+11|101|F2|2 Sharing$
+11|101|G|Single$
+11|101|H1|2 Sharing$
+11|101|H2|2 Sharing$
+
+11|102|A1|2 Sharing$
+11|102|A2|2 Sharing$
+11|102|B1|2 Sharing$
+11|102|B2|2 Sharing$
+
+11|103|A1|2 Sharing$
+11|103|A2|2 Sharing$
+11|103|B1|2 Sharing$
+11|103|B2|2 Sharing$
+
+11|104|A1|2 Sharing$
+11|104|A2|2 Sharing$
+11|104|B1|2 Sharing$
+11|104|B2|2 Sharing$
+
+11|105|A1|2 Sharing$
+11|105|A2|2 Sharing$
+11|105|B1|2 Sharing$
+11|105|B2|2 Sharing$
+
+11|106|A|Single$
+11|106|B|Single$
+11|106|C|Single$
+11|106|D|Single$
+11|106|E|Single$
+11|106|F1|2 Sharing$
+11|106|F2|2 Sharing$
+11|106|G|2 Sharing$
+11|106|H1|2 Sharing$
+11|106|H2|2 Sharing$
+
+11|201|A|Single$
+11|201|B|Single$
+11|201|C|Single$
+11|201|D|Single$
+11|201|E|Single$
+11|201|F1|2 Sharing$
+11|201|F2|2 Sharing$
+11|201|H1|2 Sharing$
+11|201|H2|2 Sharing$
+
+11|202|A1|2 Sharing$
+11|202|A2|2 Sharing$
+11|202|B1|2 Sharing$
+11|202|B2|2 Sharing$
+
+11|203|A1|2 Sharing$
+11|203|A2|2 Sharing$
+11|203|B1|2 Sharing$
+11|203|B2|2 Sharing$
+
+11|204|A1|2 Sharing$
+11|204|A2|2 Sharing$
+11|204|B1|2 Sharing$
+11|204|B2|2 Sharing$
+
+11|205|A1|2 Sharing$
+11|205|A2|2 Sharing$
+11|205|B1|2 Sharing$
+11|205|B2|2 Sharing$
+
+11|206|A|Single$
+11|206|B|Single$
+11|206|C|Single$
+11|206|D|Single$
+11|206|E|Single$
+11|206|F1|2 Sharing$
+11|206|F2|2 Sharing$
+11|206|G|Single$
+11|206|H1|2 sharing$
+11|206|H2|2 Sharing$
+
+14|001|A|Single$
+14|001|B|Single$
+14|001|C|Single$
+14|001|D|Single$
+14|001|E|Single$
+14|001|F1|2 Sharing$
+14|001|F2|2 Sharing$
+14|001|G|Single$
+14|001|H1|2 Sharing$
+14|001|H2|2 Sharing$
+
+14|002|A1|2 Sharing$
+14|002|A2|2 Sharing$
+14|002|B1|2 Sharing$
+14|002|B2|2 Sharing$
+
+14|003|A1|2 Sharing$
+14|003|A2|2 sharing$
+14|003|B1|2 Sharing$
+14|003|B2|2 Sharing$
+
+14|004|A1|2 Sharing$
+14|004|A2|2 Sharing$
+14|004|B1|2 Sharing$
+14|004|B2|2 Sharing$
+
+14|005|A1|2 Sharing$
+14|005|A2|2 Sharing$
+14|005|B1|2 Sharing$
+14|005|B2|2 Sharing$
+
+14|006|A|Single$
+14|006|B|Single$
+14|006|C|Single$
+14|006|D|Single$
+14|006|E|Single$
+14|006|F1|2 Sharing$
+14|006|F2|2 Sharing$
+14|006|G|Single$
+14|006|H1|2 Sharing$
+14|006|H2|2 Sharing$
+
+14|101|A|Single$
+14|101|B|Single$
+14|101|C|Single$
+14|101|D|Single$
+14|101|E|Single$
+14|101|F1|2 Sharing$
+14|101|F2|2 Sharing$
+14|101|G|Single$
+14|101|H1|2 Sharing$
+14|101|H2|2 Sharing$
+
+14|102|A1|2 Sharing$
+14|102|A2|2 Sharing$
+14|102|B1|2 Sharing$
+14|102|B2|2 Sharing$
+
+14|103|A1|2 Sharing$
+14|103|A2|2 Sharing$
+14|103|B1|2 Sharing$
+14|103|B2|2 Sharing$
+
+14|104|A1|2 Sharing$
+14|104|A2|2 Sharing$
+14|104|B1|2 Sharing$
+14|104|B2|2 Sharing$
+
+14|105|A1|2 Sharing$
+14|105|A2|2 Sharing$
+14|105|B1|2 Sharing$
+14|105|B2|2 Sharing$
+
+14|106|A|Single$
+14|106|B|Single$
+14|106|C|Single$
+14|106|D|Single$
+14|106|E|Single$
+14|106|F1|2 Sharing$
+14|106|F2|2 Sharing$
+14|106|G|Single$
+14|106|H1|2 Sharing$
+14|106|F5|2 Sharing$
+
+14|201|A|Single$
+14|201|B|Single$
+14|201|C|Single$
+14|201|D|Single$
+14|201|E|Single$
+14|201|F1|2 Sharing$
+14|201|F2|2 Sharing$
+14|201|G|Single$
+14|201|H1|2 Sharing$
+14|201|H2|2 Sharing$
+
+14|202|A1|2 Sharing$
+14|202|A2|2 Sharing$
+14|202|B1|2 Sharing$
+14|202|B2|2 Sharing$
+
+14|203|A1|2 Sharing$
+14|203|A2|2 Sharing$
+14|203|B1|2 Sharing$
+14|203|B2|2 Sharing$
+
+14|204|A1|2 Sharing$
+14|204|A2|2 Sharing$
+14|204|B1|2 Sharing$
+14|204|B2|2 Sharing$
+
+14|205|A1|2 Sharing$
+14|205|A2|2 Sharing$
+14|205|B1|2 Sharing$
+14|205|B2|2 Sharing$
+
+14|206|A|Single$
+14|206|B|Single$
+14|206|C|Single$
+14|206|D|Single$
+14|206|E|Single$
+14|206|F1|2 Sharing$
+14|206|F2|2 Sharing$
+14|206|G|Single$
+14|206|H1|2 Sharing$
+14|206|H2|2 Sharing$
+
+15|001|A|Single$
+15|001|B|Single$
+15|001|C|Single$
+15|001|D|Single$
+15|001|E|Single$
+15|001|F1|2 Sharing$
+15|001|F2|2 Sharing$
+15|001|G|Single$
+15|001|H1|2 Sharing$
+15|001|H2|2 Sharing$
+
+15|002|A1|2 Sharing$
+15|002|A2|2 Sharing$
+15|002|B1|2 Sharing$
+15|002|B2|2 Sharing$
+
+15|003|A1|2 Sharing$
+15|003|A2|2 Sharing$
+15|003|B1|2 Sharing$
+15|003|B2|2 Sharing$
+
+15|004|A1|2 Sharing$
+15|004|A2|2 Sharing$
+15|004|B1|2 Sharing$
+15|004|B2|2 Sharing$
+
+15|005|A1|2 Sharing$
+15|005|A2|2 Sharing$
+15|005|B1|2 Sharing$
+15|005|B2|2 Sharing$
+
+15|006|A|Single$
+15|006|B|Single$
+15|006|C|Single$
+15|006|D|Single$
+15|006|E|Single$
+15|006|F1|2 Sharing$
+15|006|F2|2 Sharing$
+15|006|G|Single$
+15|006|H1|2 Sharing$
+15|006|H2|2 Sharing$
+
+15|101|A|Single$
+15|101|B|Single$
+15|101|C|Single$
+15|101|D|Single$
+15|101|E|Single$
+15|101|F1|2 Sharing$
+15|101|F2|2 Sharing$
+15|101|G|Single$
+15|101|H1|2 Sharing$
+15|101|H2|2 Sharing$
+
+15|102|A1|2 Sharing$
+15|102|A2|2 Sharing$
+15|102|B1|2 Sharing$
+15|102|B2|2 Sharing$
+
+15|103|A1|2 Sharing$
+15|103|A2|2 Sharing$
+15|103|B1|2 Sharing$
+15|103|B2|2 Sharing$
+
+15|104|A1|2 Sharing$
+15|104|A2|2 Sharing$
+15|104|B1|2 Sharing$
+15|104|B2|2 Sharing$
+
+15|105|A1|2 Sharing$
+15|105|A2|2 Sharing$
+15|105|B1|2 Sharing$
+15|105|B2|2 Sharing$
+
+15|106|A|Single$
+15|106|B|Single$
+15|106|C|Single$
+15|106|D|Single$
+15|106|E|Single$
+15|106|F1|2 Sharing$
+15|106|F2|2 Sharing$
+15|106|G|Single$
+15|106|H1|2 Sharing$
+15|106|H2|2 Sharing$
+
+15|201|A|Single$
+15|201|B|Single$
+15|201|C|Single$
+15|201|D|Single$
+15|201|E|Single$
+15|201|F1|2 Sharing$
+15|201|F2|2 Sharing$
+15|201|G|Single$
+15|201|H1|2 Sharing$
+15|201|H2|2 Sharing$
+
+15|202|A1|2 Sharing$
+15|202|A2|2 Sharing$
+15|202|B1|2 Sharing$
+15|202|B2|2 Sharing$
+
+15|203|A1|2 Sharing$
+15|203|A2|2 Sharing$
+15|203|B1|2 Sharing$
+15|203|B2|2 Sharing$
+
+15|204|A1|2 Sharing$
+15|204|A2|2 Sharing$
+15|204|B1|2 Sharing$
+15|204|B2|2 Sharing$
+
+15|205|A1|2 Sharing$
+15|205|A2|2 Sharing$
+15|205|B1|2 Sharing$
+15|205|B2|2 Sharing$
+
+15|206|A|Single$
+15|206|B|Single$
+15|206|C|Single$
+15|206|D|Single$
+15|206|E|Single$
+15|206|F1|2 Sharing$
+15|206|F2|2 Sharing$
+15|206|G|Single$
+15|206|H1|2 Sharing$
+15|206|H2|2 Sharing$
+
+17|001|A|Single$
+17|001|B|Single$
+17|001|C|Single$
+17|001|D|Single$
+17|001|E|Single$
+17|001|F1|2 Sharing$
+17|001|F2|2 Sharing$
+17|001|G|Single$
+17|001|H1|2 Sharing$
+17|001|H2|2 Sharing$
+
+17|002|A1|2 Sharing$
+17|002|A2|2 Sharing$
+17|002|B1|2 Sharing$
+17|002|B2|2 Sharing$
+
+17|003|A1|2 Sharing$
+17|003|A2|2 Sharing$
+17|003|B1|2 Sharing$
+17|003|B2|2 Sharing$
+
+17|002|A1|2 Sharing$
+17|004|A2|2 Sharing$
+17|004|B1|2 Sharing$
+17|004|B2|2 Sharing$
+
+17|005|A1|2 Sharing$
+17|005|A2|2 Sharing$
+17|005|B1|2 Sharing$
+17|005|B2|2 Sharing$
+
+17|006|A1|2 Sharing$
+17|006|A2|2 Sharing$
+17|006|B1|2 Sharing$
+17|006|B2|2 Sharing$
+
+17|007|A|Single$
+17|007|B|Single$
+17|007|C|Single$
+17|007|D|Single$
+17|007|E|Single$
+17|007|F1|2 Sharing$
+17|007|F2|2 Sharing$
+17|007|G|Single$
+17|007|H1|2 Sharing$
+17|007|H2|2 Sharing$
+
+17|101|A|Single$
+17|101|B|Single$
+17|101|C|Single$
+17|101|D|Single$
+17|101|E|Single$
+17|101|F1|2 SHARING$
+17|101|F2|2 SHARING$
+17|101|G|Single$
+17|101|H1|2 SHARING$
+17|101|H2|2 SHARING$
+
+17|102|A1|2 Sharing$
+17|102|A2|2 Sharing$
+17|102|B1|2 Sharing$
+17|102|B2|2 Sharing$
+
+17|103|A1|2 Sharing$
+17|103|A2|2 Sharing$
+17|103|B1|2 Sharing$
+17|103|B2|2 Sharing$
+
+17|104|A1|2 Sharing$
+17|104|A2|2 Sharing$
+17|104|B1|2 Sharing$
+17|104|B2|2 Sharing$
+
+17|105|A1|2 Sharing$
+17|105|A2|2 Sharing$
+17|105|B1|2 Sharing$
+17|105|B2|2 Sharing$
+
+17|106|A1|2 Sharing$
+17|106|A2|2 Sharing$
+17|106|B1|2 Sharing$
+17|106|B2|2 Sharing$
+
+17|107|A|Single$
+17|107|B|Single$
+17|107|C|Single$
+17|107|D|Single$
+17|107|E|Single$
+17|107|F1|2 Sharing$
+17|107|F2|2 Sharing$
+17|107|G|Single$
+17|107|H1|2 Sharing$
+17|107|H2|2 Sharing$
+
+17|201|A|Single$
+17|201|B|Single$
+17|201|C|Single$
+17|201|D|Single$
+17|201|E|Single$
+17|201|F1|2 Sharing$
+17|201|F2|2 Sharing$
+17|201|G|Single$
+17|201|H1|2 Sharing$
+17|201|H2|2 Sharing$
+
+17|202|A1|2 Sharing$
+17|202|A2|2 Sharing$
+17|202|B1|2 Sharing$
+17|202|B2|2 Sharing$
+
+17|203|A1|2 Sharing$
+17|203|A2|2 Sharing$
+17|203|B1|2 Sharing$
+17|203|B2|2 Sharing$
+
+17|204|A1|2 Sharing$
+17|204|A2|2 Sharing$
+17|204|B1|2 Sharing$
+17|204|B2|2 Sharing$
+
+17|205|A1|2 Sharing$
+17|205|A2|2 Sharing$
+17|205|B1|2 Sharing$
+17|205|B2|2 Sharing$
+
+17|206|A1|2 Sharing$
+17|206|A2|2 Sharing$
+17|206|B1|2 Sharing$
+17|206|B2|2 Sharing$
+
+17|207|A|Single$
+17|207|B|Single$
+17|207|C|Single$
+17|207|D|Single$
+17|207|E|Single$
+17|207|F1|2 Sharing$
+17|207|F2|2 Sharing$
+17|207|G|Single$
+17|207|H1|2 Sharing$
+17|207|H2|2 Sharing$
+
+18|001|A|Single$
+18|001|B|Single$
+18|001|C|Single$
+18|001|D|Single$
+18|001|E|Single$
+18|001|F1|2 Sharing$
+18|001|F2|2 Sharing$
+18|001|G|Single$
+18|001|H1|2 Sharing$
+18|001|H2|2 Sharing$
+
+18|002|A1|2 Sharing$
+18|002|A2|2 Sharing$
+18|002|B1|2 Sharing$
+18|002|B2|2 Sharing$
+
+18|003|A1|2 Sharing$
+18|003|A2|2 Sharing$
+18|003|B1|2 Sharing$
+18|003|B2|2 Sharing$
+
+18|004|A1|2 Sharing$
+18|004|A2|2 Sharing$
+18|004|B1|2 Sharing$
+18|004|B2|2 Sharing$
+
+18|005|A1|2 Sharing$
+18|005|A2|2 Sharing$
+18|005|B1|2 Sharing$
+18|005|B2|2 Sharing$
+
+18|006|A|Single$
+18|006|B|Single$
+18|006|C|Single$
+18|006|D|Single$
+18|006|E|Single$
+18|006|F1|2 Sharing$
+18|006|F2|2 Sharing$
+18|006|G|Single$
+18|006|H1|2 Sharing$
+18|006|H2|2 Sharing$
+
+18|101|A|Single$
+18|101|B|Single$
+18|101|C|Single$
+18|101|D|Single$
+18|101|E|Single$
+18|101|F1|2 Sharing$
+18|101|F2|2 Sharing$
+18|101|G|Single$
+18|101|H1|2 Sharing$
+18|101|H2|2 Sharing$
+
+18|102|A1|2 Sharing$
+18|102|A2|2 Sharing$
+18|102|B1|2 Sharing$
+18|102|B2|2 Sharing$
+
+18|103|A1|2 Sharing$
+18|103|A2|2 Sharing$
+18|103|B1|2 Sharing$
+18|103|B2|2 Sharing$
+
+18|104|A1|2 Sharing$
+18|104|A2|2 Sharing$
+18|104|B1|2 Sharing$
+18|104|B2|2 Sharing$
+
+18|105|A1|2 Sharing$
+18|105|A2|2 Sharing$
+18|105|B1|2 Sharing$
+18|105|B2|2 Sharing$
+
+18|106|A|Single$
+18|106|B|Single$
+18|106|C|Single$
+18|106|D|Single$
+18|106|E|Single$
+18|106|F1|2 Sharing$
+18|106|F2|2 Sharing$
+18|106|G|Single$
+18|106|H1|2 Sharing$
+18|106|H2|2 Sharing$
+
+18|201|A|Single$
+18|201|B|Single$
+18|201|C|Single$
+18|201|D|Single$
+18|201|E|Single$
+18|201|F1|2 Sharing$
+18|201|F2|2 Sharing$
+18|201|G|Single$
+18|201|H1|2 Sharing$
+18|201|H2|2 Sharing$
+
+18|202|A1|2 Sharing$
+18|202|A2|2 Sharing$
+18|202|B1|2 Sharing$
+18|202|B2|2 Sharing$
+
+18|203|A1|2 Sharing$
+18|203|A2|2 Sharing$
+18|203|B1|2 Sharing$
+18|203|B2|2 Sharing$
+
+18|204|A1|2 Sharing$
+18|204|A2|2 Sharing$
+18|204|B1|2 Sharing$
+18|204|B2|2 Sharing$
+
+18|205|A1|2 Sharing$
+18|205|A2|2 Sharing$
+18|205|B1|2 Sharing$
+18|205|B2|2 Sharing$
+
+18|206|A|Single$
+18|206|B|Single$
+18|206|C|Single$
+18|206|D|Single$
+18|206|E|Single$
+18|206|F1|2 Sharing$
+18|206|F2|2 Sharing$
+18|206|G|Single$
+18|206|H1|2 Sharing$
+18|206|H2|2 Sharing$
+
+20|001|A|SINGLE$
+20|001|B|SINGLE$
+20|001|C|SINGLE$
+20|001|D|SINGLE$
+20|001|E|SINGLE$
+20|001|F1|2 SHARING$
+20|001|F2|2 SHARING$
+20|001|G|SINGLE$
+20|001|H1|2 SHARING$
+20|001|H2|2 SHARING$
+
+20|002|A1|2 SHARING$
+20|002|A2|2 SHARING$
+20|002|B1|2 SHARING$
+20|002|B2|2 SHARING$
+
+20|003|A1|2 SHARING$
+20|003|A2|2 SHARING$
+20|003|B1|2 SHARING$
+20|003|B2|2 SHARING$
+
+20|004|A1|2 SHARING$
+20|004|A2|2 SHARING$
+20|004|B1|2 SHARING$
+20|004|B2|2 SHARING$
+
+20|005|A1|2 SHARING$
+20|005|A2|2 SHARING$
+20|005|B1|2 SHARING$
+20|005|B2|2 SHARING$
+
+20|006|A|SINGLE$
+20|006|B|SINGLE$
+20|006|C|SINGLE$
+20|006|D|SINGLE$
+20|006|E|SINGLE$
+20|006|F1|2 SHARING$
+20|006|F2|2 SHARING$
+20|006|G|SINGLE$
+20|006|H1|2 SHARING$
+20|006|H2|2 SHARING$
+
+20|101|A|SINGLE$
+20|101|B|SINGLE$
+20|101|C|SINGLE$
+20|101|D|SINGLE$
+20|101|E|SINGLE$
+20|101|F1|2 SHARING$
+20|101|F2|2 SHARING$
+20|101|G|SINGLE$
+20|101|H1|2 SHARING$
+20|101|H2|2 SHARING$
+
+20|102|A1|2 SHARING$
+20|102|A2|2 SHARING$
+20|102|B1|2 SHARING$
+20|102|B2|2 SHARING$
+
+20|103|A1|2 SHARING$
+20|103|A2|2 SHARING$
+20|103|B1|2 SHARING$
+20|103|B2|2 SHARING$
+
+20|104|A1|2 SHARING$
+20|104|A2|2 SHARING$
+20|104|B1|2 SHARING$
+20|104|B2|2 SHARING$
+
+20|105|A1|2 SHARING$
+20|105|A2|2 SHARING$
+20|105|B1|2 SHARING$
+20|105|B2|2 SHARING$
+
+20|106|A|SINGLE$
+20|106|B|SINGLE$
+20|106|C|SINGLE$
+20|106|D|SINGLE$
+20|106|E|SINGLE$
+20|106|F1|2 SHARING$
+20|106|F2|2 SHARING$
+20|106|G|SINGLE$
+20|106|H1|2 SHARING$
+20|106|H2|2 SHARING$
+
+20|201|A|SINGLE$
+20|201|B|SINGLE$
+20|201|C|SINGLE$
+20|201|D|SINGLE$
+20|201|E|SINGLE$
+20|201|F1|2 SHARING$
+20|201|F2|2 SHARING$
+20|201|G|SINGLE$
+20|201|H1|2 SHARING$
+20|201|H2|2 SHARING$
+
+20|202|A1|2 SHARING$
+20|202|A2|2 SHARING$
+20|202|B1|2 SHARING$
+20|202|B2|2 SHARING$
+
+20|203|A1|2 SHARING$
+20|203|A2|2 SHARING$
+20|203|B1|2 SHARING$
+20|203|B2|2 SHARING$
+
+20|204|A1|2 SHARING$
+20|204|A2|2 SHARING$
+20|204|B1|2 SHARING$
+20|204|B2|2 SHARING$
+
+20|205|A1|2 SHARING$
+20|205|A2|2 SHARING$
+20|205|B1|2 SHARING$
+20|205|B2|2 SHARING$
+
+20|206|A|SINGLE$
+20|206|B|SINGLE$
+20|206|C|SINGLE$
+20|206|D|SINGLE$
+20|206|E|SINGLE$
+20|206|F1|2 SHARING$
+20|206|F2|2 SHARING$
+20|206|G|SINGLE$
+20|206|H1|2 SHARING$
+20|206|H2|2 SHARING$
+
+21|001|A|Single$
+21|001|B|Single$
+21|001|C|Single$
+21|001|D|Single$
+21|001|E|Single$
+21|001|F1|2 Sharing$
+21|001|F2|2 Sharing$
+21|001|G|Single$
+21|001|H1|2 Sharing$
+21|001|H2|2 Sharing$
+
+21|002|A1|2 Sharing$
+21|002|A2|2 Sharing$
+21|002|B1|2 Sharing$
+21|002|B2|2 Sharing$
+
+21|003|A1|2 Sharing$
+21|003|A2|2 Sharing$
+21|003|B1|2 Sharing$
+21|003|B2|2 Sharing$
+
+21|004|A1|2 Sharing$
+21|004|A2|2 Sharing$
+21|004|B1|2 Sharing$
+21|004|B2|2 Sharing$
+
+21|005|A1|2 Sharing$
+21|005|A2|2 Sharing$
+21|005|B1|2 Sharing$
+21|005|B2|2 Sharing$
+
+21|006|A|Single$
+21|006|B|Single$
+21|006|C|Single$
+21|006|D|Single$
+21|006|E|Single$
+21|006|F1|2 Sharing$
+21|006|F2|2 Sharing$
+21|006|G|Single$
+21|006|H1|2 Sharing$
+21|006|H2|2 Sharing$
+
+21|101|A|Single$
+21|101|B|Single$
+21|101|C|Single$
+21|101|D|Single$
+21|101|E|Single$
+21|101|F1|2 Sharing$
+21|101|F2|2 Sharing$
+21|101|G|Single$
+21|101|H1|2 Sharing$
+21|101|H2|2 Sharing$
+
+21|102|A1|2 Sharing$
+21|102|A2|2 Sharing$
+21|102|B1|2 Sharing$
+21|102|B2|2 Sharing$
+
+21|103|A1|2 Sharing$
+21|103|A2|2 Sharing$
+21|103|B1|2 Sharing$
+21|103|B2|2 Sharing$
+
+21|104|A1|2 Sharing$
+21|104|A2|2 Sharing$
+21|104|B1|2 Sharing$
+21|104|B2|2 Sharing$
+
+21|105|A1|2 Sharing$
+21|105|A2|2 Sharing$
+21|105|B1|2 Sharing$
+21|105|B2|2 Sharing$
+
+21|106|A|Single$
+21|106|B|Single$
+21|106|C|Single$
+21|106|D|Single$
+21|106|E|Single$
+21|106|F1|2 Sharing$
+21|106|F2|2 Sharing$
+21|106|G|Single$
+21|106|H1|2 Sharing$
+21|106|H2|2 Sharing$
+
+21|201|A|Single$
+21|201|B|Single$
+21|201|C|Single$
+21|201|D|Single$
+21|201|E|Single$
+21|201|F1|2 Sharing$
+21|201|F2|2 Sharing$
+21|201|G|Single$
+21|201|H1|2 Sharing$
+21|201|H2|2 Sharing$
+
+21|202|A1|2 Sharing$
+21|202|A2|2 Sharing$
+21|202|B1|2 Sharing$
+21|202|B2|2 Sharing$
+
+21|203|A1|2 Sharing$
+21|203|A2|2 Sharing$
+21|203|B1|2 Sharing$
+21|203|B2|2 Sharing$
+
+21|204|A1|2 Sharing$
+21|204|A2|2 Sharing$
+21|204|B1|2 Sharing$
+21|204|B2|2 Sharing$
+
+21|205|A1|2 Sharing$
+21|205|A2|2 Sharing$
+21|205|B1|2 Sharing$
+21|205|B2|2 Sharing$
+
+21|206|A|Single$
+21|206|B|Single$
+21|206|C|Single$
+21|206|D|Single$
+21|206|E|Single$
+21|206|F1|2 Sharing$
+21|206|F2|2 Sharing$
+21|206|G|Single$
+21|206|H1|2 Sharing$
+21|206|H2|2 Sharing$
+
+23|001|A|Single$
+23|001|B|Single$
+23|001|C|Single$
+23|001|D1|2 Sharing$
+23|001|D2|2 Sharing$
+23|001|E|Single$
+23|001|F1|2 Sharing$
+23|001|F2|2 Sharing$
+
+23|002|A|Single$
+23|002|B|Single$
+23|002|C|Single$
+23|002|D1|2 Sharing$
+23|002|D2|2 Sharing$
+23|002|E|Single$
+23|002|F1|2 Sharing$
+23|002|F2|2 Sharing$
+
+23|101|A|Single$
+23|101|B|Single$
+23|101|C|Single$
+23|101|D1|2 Sharing$
+23|101|D2|2 Sharing$
+23|101|E|Single$
+23|101|F1|2 Sharing$
+23|101|F2|2 Sharing$
+
+23|102|A|Single$
+23|102|B|Single$
+23|102|C|Single$
+23|102|D1|2 Sharing$
+23|102|D2|2 Sharing$
+23|102|E|Single$
+23|102|F1|2 Sharing$
+23|102|F2|2 Sharing$
+
+23|201|A|Single$
+23|201|B|Single$
+23|201|C|Single$
+23|201|D1|2 Sharing$
+23|201|D2|2 Sharing$
+23|201|E|Single$
+23|201|F1|2 Sharing$
+23|201|F2|2 Sharing$
+
+23|202|A|Single$
+23|202|B|Single$
+23|202|C|Single$
+23|202|D1|2 Sharing$
+23|202|D2|2 Sharing$
+23|202|E|Single$
+23|202|F1|2 Sharing$
+23|202|F2|2 Sharing$
+
+24|001|A|Single$
+24|001|B|Single$
+24|001|C|Single$
+24|001|D|Single$
+24|001|E|Single$
+24|001|F1|2 Sharing$
+24|001|F2|2 Sharing$
+24|001|G|Single$
+24|001|H1|2 Sharing$
+24|001|H2|2 Sharing$
+
+24|002|A|Single$
+24|002|B|Single$
+24|002|C|Single$
+
+24|003|A|Single$
+24|003|B|Single$
+24|003|C|Single$
+
+24|004|A|Single$
+24|004|B|Single$
+24|004|C|Single$
+24|004|D|Single$
+24|004|E|Single$
+24|004|F1|2 Sharing$
+24|004|F2|2 Sharing$
+24|004|G|Single$
+24|004|H1|2 Sharing$
+24|004|H2|2 Sharing$
+
+24|101|A|Single$
+24|101|B|Single$
+24|101|C|Single$
+24|101|D|Single$
+24|101|E|Single$
+24|101|F1|2 Sharing$
+24|101|F2|2 Sharing$
+24|101|G|Single$
+24|101|H1|2 Sharing$
+24|101|H2|2 Sharing$
+
+24|102|A|Single$
+24|102|B|Single$
+24|102|C|Single$
+
+24|103|A|Single$
+24|103|B|Single$
+24|103|C|Single$
+
+24|104|A|Single$
+24|104|B|Single$
+24|104|C|Single$
+24|104|D|Single$
+24|104|E|Single$
+24|104|F1|2 Sharing$
+24|104|F2|2 Sharing$
+24|104|G|Single$
+24|104|H1|2 Sharing$
+24|104|H2|2 Sharing$
+
+24|201|A|Single$
+24|201|B|Single$
+24|201|C|Single$
+24|201|D|Single$
+24|201|E|Single$
+24|201|F1|2 Sharing$
+24|201|F2|2 Sharing$
+24|201|G|Single$
+24|201|H1|2 Sharing$
+24|201|H2|2 Sharing$
+
+24|202|A|Single$
+24|202|B|Single$
+24|202|C|Single$
+
+24|203|A|Single$
+24|203|B|Single$
+24|203|C|Single$
+
+24|204|A|Single$
+24|204|B|Single$
+24|204|C|Single$
+24|204|D|Single$
+24|204|E|Single$
+24|204|F1|2 Sharing$
+24|204|F2|2 Sharing$
+24|204|G|Single$
+24|204|H1|2 Sharing$
+24|204|H2|2 Sharing$
+
+25|001|A|Single$
+25|001|B|Single$
+25|001|C|Single$
+25|001|D|Single$
+25|001|E|Single$
+25|001|F1|2 Sharing$
+25|001|F2|2 Sharing$
+25|001|G|Single$
+25|001|H1|2 Sharing$
+25|001|H2|2 Sharing$
+
+25|002|A|Single$
+25|002|B|Single$
+25|002|C|Single$
+
+25|003|A|Single$
+25|003|B|Single$
+25|003|C|Single$
+25|003|D|Single$
+25|003|E|Single$
+25|003|F1|2 Sharing$
+25|003|F2|2 Sharing$
+25|003|G|Single$
+25|003|H1|2 Sharing$
+25|003|H2|2 Sharing$
+
+25|101|A|Single$
+25|101|B|Single$
+25|101|C|Single$
+25|101|D|Single$
+25|101|E|Single$
+25|101|F1|2 Sharing$
+25|101|F2|2 Sharing$
+25|101|G|Single$
+25|101|H1|2 Sharing$
+25|101|H2|2 Sharing$
+
+25|102|A|Single$
+25|102|B|Single$
+25|102|C|Single$
+
+25|103|A|Single$
+25|103|B|Single$
+25|103|C|Single$
+25|103|D|Single$
+25|103|E|Single$
+25|103|F1|2 Sharing$
+25|103|F2|2 Sharing$
+25|103|G|Single$
+25|103|H1|2 Sharing$
+25|103|H2|2 Sharing$
+
+25|201|A|Single$
+25|201|B|Single$
+25|201|C|Single$
+25|201|D|Single$
+25|201|E|Single$
+25|201|F1|2 Sharing$
+25|201|F2|2 Sharing$
+25|201|G|Single$
+25|201|H1|2 Sharing$
+25|201|H2|2 Sharing$
+
+25|202|A|Single$
+25|202|B|Single$
+25|202|C|Single$
+
+25|203|A|Single$
+25|203|B|Single$
+25|203|C|Single$
+25|203|D|Single$
+25|203|E|Single$
+25|203|F1|2 Sharing$
+25|203|F2|2 Sharing$
+25|203|G|Single$
+25|203|H1|2 Sharing$
+25|203|H2|2 Sharing$
+
+26|001|A|Single$
+26|001|B|Single$
+26|001|C|Single$
+26|001|D|Single$
+26|001|E|Single$
+26|001|F1|2 Sharing$
+26|001|F2|2 Sharing$
+26|001|G|Single$
+26|001|H1|2 Sharing$
+26|001|H2|2 Sharing$
+
+26|002|A|Single$
+26|002|B|Single$
+26|002|C|Single$
+
+26|003|A|Single$
+26|003|B|Single$
+26|003|C|Single$
+
+26|004|A|Single$
+26|004|B|Single$
+26|004|C|Single$
+26|004|D|Single$
+26|004|E|Single$
+26|004|F1|2 Sharing$
+26|004|F2|2 Sharing$
+26|004|G|Single$
+26|004|H1|2 Sharing$
+26|004|H2|2 Sharing$
+
+26|101|A|Single$
+26|101|B|Single$
+26|101|C|Single$
+26|101|D|Single$
+26|101|E|Single$
+26|101|F1|2 sharing$
+26|101|F2|2 Sharing$
+26|101|G|Single$
+26|101|H1|2 Sharing$
+26|101|H2|2 Sharing$
+
+26|102|A|Single$
+26|102|B|Single$
+26|102|C|Single$
+
+26|103|A|Single$
+26|103|B|Single$
+26|103|C|Single$
+
+26|104|A|Single$
+26|104|B|Single$
+26|104|C|Single$
+26|104|D|Single$
+26|104|E|Single$
+26|104|F1|2 Sharing$
+26|104|F2|2 Sharing$
+26|104|G|Single$
+26|104|H1|2 Sharing$
+26|104|H2|2 Sharing$
+
+26|201|A|Single$
+26|201|B|Single$
+26|201|C|Single$
+26|201|D|Single$
+26|201|E|Single$
+26|201|F1|2 Sharing$
+26|201|F2|2 Sharing$
+26|201|G|Single$
+26|201|H1|2 Sharing$
+26|201|H2|2 Sharing$
+
+26|202|A|Single$
+26|202|B|Single$
+26|202|C|Single$
+
+26|203|A|Single$
+26|203|B|Single$
+26|203|C|Single$
+
+26|204|A|Single$
+26|204|B|Single$
+26|204|C|Single$
+26|204|D|Single$
+26|204|E|Single$
+26|204|F1|2 Sharing$
+26|204|F2|2 Sharing$
+26|204|G|Single$
+26|204|H1|2 Sharing$
+26|204|H2|2 Sharing$
+
+27|001|A|Single$
+27|001|B|Single$
+27|001|C|Single$
+27|001|D|Single$
+27|001|E|Single$
+27|001|F1|2 Sharing$
+27|001|F2|2 Sharing$
+27|001|G|Single$
+27|001|H1|2 Sharing$
+27|001|H2|2 Sharing$
+
+27|002|A|Single$
+27|002|B|Single$
+27|002|C|Single$
+
+27|003|A|Single$
+27|003|B|Single$
+27|003|C|Single$
+27|003|D|Single$
+27|003|E|Single$
+27|003|F1|2 Sharing$
+27|003|F2|2 Sharing$
+27|003|G|Single$
+27|003|H1|2 Sharing$
+27|003|H2|2 Sharing$
+
+27|101|A|Single$
+27|101|B|Single$
+27|101|C|Single$
+27|101|D|Single$
+27|101|E|Single$
+27|101|F1|2 Sharing$
+27|101|F2|2 Sharing$
+27|101|G|Single$
+27|101|H1|2 Sharing$
+27|101|H2|2 Sharing$
+
+27|102|A|Single$
+27|102|B|Single$
+27|102|C|Single$
+
+27|103|A|Single$
+27|103|B|Single$
+27|103|C|Single$
+27|103|D|Single$
+27|103|E|Single$
+27|103|F1|2 Sharing$
+27|103|F2|2 Sharing$
+27|103|G|Single$
+27|103|H1|2 Sharing$
+27|103|H2|2 Sharing$
+
+27|201|A|Single$
+27|201|B|Single$
+27|201|C|Single$
+27|201|D|Single$
+27|201|E|Single$
+27|201|F1|2 Sharing$
+27|201|F2|2 Sharing$
+27|201|G|Single$
+27|201|H1|2 Sharing$
+27|201|H2|2 Sharing$
+
+27|202|A|Single$
+27|202|B|Single$
+27|202|C|Single$
+
+27|203|A|Single$
+27|203|B|Single$
+27|203|C|Single$
+27|203|D|Single$
+27|203|E|Single$
+27|203|F1|2 Sharing$
+27|203|F2|2 Sharing$
+27|203|G|Single$
+27|203|H1|2 Sharing$
+27|203|H2|2 Sharing$
+
+28|001|A|Single$
+28|001|B|Single$
+28|001|C|Single$
+28|001|D|Single$
+28|001|E|Single$
+28|001|F1|2 Sharing$
+28|001|F2|2 Sharing$
+28|001|G|Single$
+28|001|H1|2 Sharing$
+28|001|H2|2 Sharing$
+
+28|002|A|Single$
+28|002|B|Single$
+28|002|C|Single$
+
+28|003|A|Single$
+28|003|B|Single$
+28|003|C|Single$
+28|003|D|Single$
+28|003|E|Single$
+28|003|F1|2 Sharing$
+28|003|F2|2 Sharing$
+28|003|G|Single$
+28|003|H1|2 Sharing$
+28|003|H2|2 Sharing$
+
+28|101|A|Single$
+28|101|B|Single$
+28|101|C|Single$
+28|101|D|Single$
+28|101|E|Single$
+28|101|F1|2 Sharing$
+28|101|F2|2 Sharing$
+28|101|G|Single$
+28|101|H1|2 Sharing$
+28|101|H2|2 Sharing$
+
+28|102|A|Single$
+28|102|B|Single$
+28|102|C|Single$
+
+28|103|A|Single$
+28|103|B|Single$
+28|103|C|Single$
+28|103|D|Single$
+28|103|E|Single$
+28|103|F1|2 Sharing$
+28|103|F2|2 Sharing$
+28|103|G|Single$
+28|103|H1|2 Sharing$
+28|103|H2|2 Sharing$
+
+28|201|A|Single$
+28|201|B|Single$
+28|201|C|Single$
+28|201|D|Single$
+28|201|E|Single$
+28|201|F1|2 Sharing$
+28|201|F2|2 Sharing$
+28|201|G|Single$
+28|201|H1|2 Sharing$
+28|201|H2|2 Sharing$
+
+28|202|A|Single$
+28|202|B|Single$
+28|202|C|Single$
+
+28|203|A|Single$
+28|203|B|Single$
+28|203|C|Single$
+28|203|D|Single$
+28|203|E|Single$
+28|203|F1|2 Sharing$
+28|203|F2|2 Sharing$
+28|203|G|Single$
+28|203|H1|2 Sharing$
+28|203|H2|2 Sharing$
+
+29|001|A|Single$
+29|001|B|Single$
+29|001|C|Single$
+29|001|D|Single$
+29|001|E|Single$
+29|001|F1|2 Sharing$
+29|001|F2|2 Sharing$
+29|001|G|Single$
+29|001|H1|2 Sharing$
+29|001|H2|2 Sharing$
+
+29|002|A|Single$
+29|002|B|Single$
+29|002|C|Single$
+
+29|003|A|Single$
+29|003|B|Single$
+29|003|C|Single$
+
+29|004|A|Single$
+29|004|B|Single$
+29|004|C|Single$
+29|004|D|Single$
+29|004|E|Single$
+29|004|F1|2 Sharing$
+29|004|F2|2 Sharing$
+29|004|G|Single$
+29|004|H1|2 Sharing$
+29|004|H2|2 Sharing$
+
+29|101|A|Single$
+29|101|B|Single$
+29|101|C|Single$
+29|101|D|Single$
+29|101|E|Single$
+29|101|F1|2 Sharing$
+29|101|F2|2 Sharing$
+29|101|G|Single$
+29|101|H1|2 Sharing$
+29|101|H2|2 Sharing$
+
+29|102|A|Single$
+29|102|B|Single$
+29|102|C|Single$
+
+29|103|A|Single$
+29|103|B|Single$
+29|103|C|Single$
+
+29|104|A|Single$
+29|104|B|Single$
+29|104|C|Single$
+29|104|D|Single$
+29|104|E|Single$
+29|104|F1|2 Sharing$
+29|104|F2|2 Sharing$
+29|104|G|Single$
+29|104|H1|2 Sharing$
+29|104|H2|2 Sharing$
+
+29|201|A|Single$
+29|201|B|Single$
+29|201|C|Single$
+29|201|D|Single$
+29|201|E|Single$
+29|201|F1|2 Sharing$
+29|201|F2|2 Sharing$
+29|201|G|Single$
+29|201|H1|2 Sharing$
+29|201|H2|2 Sharing$
+
+29|202|A|Single$
+29|202|B|Single$
+29|202|C|Single$
+
+29|203|A|Single$
+29|203|B|Single$
+29|203|C|Single$
+
+29|204|A|Single$
+29|204|B|Single$
+29|204|C|Single$
+29|204|D|Single$
+29|204|E|Single$
+29|204|F1|2 Sharing$
+29|204|F2|2 Sharing$
+29|204|G|Single$
+29|204|H1|2 Sharing$
+29|204|H2|2 Sharing$
