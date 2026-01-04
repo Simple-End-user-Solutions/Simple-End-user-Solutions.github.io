@@ -48,7 +48,7 @@ const RESOURCES = {"flutter.js": "76f08d47ff9f5715220992f993002504",
 "assets/assets/images/rms_logo.png": "138c8e16385c2a10bd171eb473803897",
 "assets/assets/images/error_route.gif": "713ac49716b7746cf8e78310447a0624",
 "assets/assets/fonts/Roboto_Mono/static/RobotoMono-Regular.ttf": "5b04fdfec4c8c36e8ca574e40b7148bb",
-"assets/fonts/MaterialIcons-Regular.otf": "ae8479088545ae65cac556041be1662c",
+"assets/fonts/MaterialIcons-Regular.otf": "454985d313430557cbd61caf0fb0bf5f",
 "assets/fonts/Roboto_Mono/RobotoMono-VariableFont_wght.ttf": "336102a48d996db3d945a346b1790b1f",
 "assets/fonts/Roboto_Mono/README.txt": "73e0946e30966fd4f97f941a329c34ad",
 "assets/fonts/Roboto_Mono/static/RobotoMono-LightItalic.ttf": "029bc3c3cc4278d2e0830f4240c9903d",
@@ -91,9 +91,9 @@ const RESOURCES = {"flutter.js": "76f08d47ff9f5715220992f993002504",
 "canvaskit/canvaskit.js.symbols": "68eb703b9a609baef8ee0e413b442f33",
 "canvaskit/skwasm.js.symbols": "80806576fa1056b43dd6d0b445b4b6f7",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"flutter_bootstrap.js": "03f1205d48ae7e154495f42dc74a1ce0",
+"flutter_bootstrap.js": "3020d1d427064e3f4fdc8fb5393ae561",
 "version.json": "79896efb15686ae72b94a2660119f64f",
-"main.dart.js": "e4ec6e9f76a5baf407bf3c8666b8496d"};
+"main.dart.js": "6ab5ca55e2aee45deef88f85392f51d5"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
